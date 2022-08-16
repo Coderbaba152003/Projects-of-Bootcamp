@@ -42,7 +42,7 @@ int main()
 {
     int a[4][4]={10,5,3,6,2,4,7,11,13,1,8,12,9,14,0,15};
     int b[4][4]={1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,0};
-    int i,j,moves=50,direction,k=3,l=2,temp;
+    int i,j,moves=100,direction,k=3,l=2,temp;
     char pname[30],key;
     printf("\n\n\n\n*******************************************  NUMBER SHIFTING GAME  *******************************************");
     printf("\n\n\n\n\n\n\n");
